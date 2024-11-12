@@ -56,6 +56,8 @@ Data processing involves cleaning and preparing the data for analysis.This proce
  4.While 99% dark and pure thrives,explore avenues to to enhance the engagement of spicy special slims and others.targeted promotions ,slash in prices,exclusive weekend or black friday sales,or personalized marketing strategies can invigorate these segments ,bringing them to it's full potential.
 
  5.The company's outstanding $14.7M in profit above sales shows that it is successfully maximazing profitability across all its products and categories.this indicates effective cost,pricing and general business operations management.
+
+ Interact with my dashboard here : https://1drv.ms/x/c/4c4e81d8f0631446/EUYUY_DYgU4ggEyiAAAAAAABDODoPt1tLdIDHjVzeXSl0w?e=cS2Ikd
  
 
  
