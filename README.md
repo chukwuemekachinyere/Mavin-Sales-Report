@@ -26,7 +26,7 @@ Data processing involves cleaning and preparing the dataset for analysis. The fo
  - **Profit**: `[Sum of Sales] - [Sum of Expenses]`
  - **Profit Margin**: `[Profit] / [Sum of Sales]`
 
-(https://github.com/user-attachments/assets/2ed369c0-4570-422c-97c9-d518155ff532)
+![Sales dashboard2](https://github.com/user-attachments/assets/2ed369c0-4570-422c-97c9-d518155ff532)
 ## Data Visualization
 A comprehensive sales dashboard was designed to visualize key insights. The dashboard highlights:
 - **Sales Performance by Salesperson**
